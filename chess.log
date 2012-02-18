@@ -1,0 +1,2576 @@
+
+RCS file: /home/cvsroot/ChessProject/4QUEENS.PGN,v
+Working file: ChessProject/4QUEENS.PGN
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:02 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:02 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/Chess.ipr,v
+Working file: ChessProject/Chess.ipr
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:02 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:02 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/Chess.iws,v
+Working file: ChessProject/Chess.iws
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:04 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:04 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/notes.doc,v
+Working file: ChessProject/notes.doc
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:06 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:06 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/timestamp.inf,v
+Working file: ChessProject/timestamp.inf
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:07 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:07 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/AllTestSuite.java,v
+Working file: ChessProject/chess/AllTestSuite.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:07 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:07 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/FullTests.java,v
+Working file: ChessProject/chess/FullTests.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:08 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:08 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/chess.properties,v
+Working file: ChessProject/chess/chess.properties
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:07 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:07 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/values.properties,v
+Working file: ChessProject/chess/values.properties
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:08 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:08 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/ChessBoard.java,v
+Working file: ChessProject/chess/board/ChessBoard.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:08 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:08 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/ChessBoardTest.java,v
+Working file: ChessProject/chess/board/ChessBoardTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/EmptySquare.java,v
+Working file: ChessProject/chess/board/EmptySquare.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/Position.java,v
+Working file: ChessProject/chess/board/Position.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/PositionHashTable.java,v
+Working file: ChessProject/chess/board/PositionHashTable.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/PositionHashTableTest.java,v
+Working file: ChessProject/chess/board/PositionHashTableTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/PositionTest.java,v
+Working file: ChessProject/chess/board/PositionTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/Square.java,v
+Working file: ChessProject/chess/board/Square.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/SquareGlobals.java,v
+Working file: ChessProject/chess/board/SquareGlobals.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:09 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/SquareInterface.java,v
+Working file: ChessProject/chess/board/SquareInterface.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/board/SquareTest.java,v
+Working file: ChessProject/chess/board/SquareTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/game/AbstractChessGame.java,v
+Working file: ChessProject/chess/game/AbstractChessGame.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/game/TestableChessGame.java,v
+Working file: ChessProject/chess/game/TestableChessGame.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/DragListener.java,v
+Working file: ChessProject/chess/gui/DragListener.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiChessGame.java,v
+Working file: ChessProject/chess/gui/GuiChessGame.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:10 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiChessSquare.java,v
+Working file: ChessProject/chess/gui/GuiChessSquare.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiChessSquareTest.java,v
+Working file: ChessProject/chess/gui/GuiChessSquareTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiLabeledBoard.java,v
+Working file: ChessProject/chess/gui/GuiLabeledBoard.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiMenuBar.java,v
+Working file: ChessProject/chess/gui/GuiMenuBar.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:11 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiMoveMaker.java,v
+Working file: ChessProject/chess/gui/GuiMoveMaker.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiNotationPanel.java,v
+Working file: ChessProject/chess/gui/GuiNotationPanel.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/GuiUtils.java,v
+Working file: ChessProject/chess/gui/GuiUtils.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/gui/MoveEventListener.java,v
+Working file: ChessProject/chess/gui/MoveEventListener.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/AbstractMove.java,v
+Working file: ChessProject/chess/move/AbstractMove.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/CastleMoveTest.java,v
+Working file: ChessProject/chess/move/CastleMoveTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/EnpassantMove.java,v
+Working file: ChessProject/chess/move/EnpassantMove.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/EnpassantMoveTest.java,v
+Working file: ChessProject/chess/move/EnpassantMoveTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:12 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/IllegalMove.java,v
+Working file: ChessProject/chess/move/IllegalMove.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/IllegalMoveTest.java,v
+Working file: ChessProject/chess/move/IllegalMoveTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/KingSideCastleMove.java,v
+Working file: ChessProject/chess/move/KingSideCastleMove.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/Move.java,v
+Working file: ChessProject/chess/move/Move.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/MoveGlobals.java,v
+Working file: ChessProject/chess/move/MoveGlobals.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/MoveTest.java,v
+Working file: ChessProject/chess/move/MoveTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/PromotionMove.java,v
+Working file: ChessProject/chess/move/PromotionMove.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/PromotionMoveTest.java,v
+Working file: ChessProject/chess/move/PromotionMoveTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/QueenSideCastleMove.java,v
+Working file: ChessProject/chess/move/QueenSideCastleMove.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/ResignMove.java,v
+Working file: ChessProject/chess/move/ResignMove.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/move/ResignMoveTest.java,v
+Working file: ChessProject/chess/move/ResignMoveTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/Notation.java,v
+Working file: ChessProject/chess/notation/Notation.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:13 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/PgnFile.java,v
+Working file: ChessProject/chess/notation/PgnFile.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:14 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:14 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/PgnFileTest.java,v
+Working file: ChessProject/chess/notation/PgnFileTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:14 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:14 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/PgnGame.java,v
+Working file: ChessProject/chess/notation/PgnGame.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:14 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:14 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/PgnGameManager.java,v
+Working file: ChessProject/chess/notation/PgnGameManager.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:15 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:15 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/PgnGameManagerTest.java,v
+Working file: ChessProject/chess/notation/PgnGameManagerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:15 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:15 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/PgnGameTest.java,v
+Working file: ChessProject/chess/notation/PgnGameTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:15 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:15 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/ShortAlgebraicNotation.java,v
+Working file: ChessProject/chess/notation/ShortAlgebraicNotation.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:16 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:16 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/notation/ShortAlgebraicNotationTest.java,v
+Working file: ChessProject/chess/notation/ShortAlgebraicNotationTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:17 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:17 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/Bishop.java,v
+Working file: ChessProject/chess/piece/Bishop.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:17 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:17 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/BishopTest.java,v
+Working file: ChessProject/chess/piece/BishopTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:17 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:17 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/GamePiece.java,v
+Working file: ChessProject/chess/piece/GamePiece.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:18 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:18 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/GamePieceTest.java,v
+Working file: ChessProject/chess/piece/GamePieceTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:18 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:18 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/King.java,v
+Working file: ChessProject/chess/piece/King.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:19 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:19 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/KingTest.java,v
+Working file: ChessProject/chess/piece/KingTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/Knight.java,v
+Working file: ChessProject/chess/piece/Knight.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/KnightTest.java,v
+Working file: ChessProject/chess/piece/KnightTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/MockPiece.java,v
+Working file: ChessProject/chess/piece/MockPiece.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:20 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/Pawn.java,v
+Working file: ChessProject/chess/piece/Pawn.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:21 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:21 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/PawnTest.java,v
+Working file: ChessProject/chess/piece/PawnTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/Piece.java,v
+Working file: ChessProject/chess/piece/Piece.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/PieceFactory.java,v
+Working file: ChessProject/chess/piece/PieceFactory.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/PieceGlobals.java,v
+Working file: ChessProject/chess/piece/PieceGlobals.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/Queen.java,v
+Working file: ChessProject/chess/piece/Queen.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/QueenTest.java,v
+Working file: ChessProject/chess/piece/QueenTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/Rook.java,v
+Working file: ChessProject/chess/piece/Rook.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:22 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/piece/RookTest.java,v
+Working file: ChessProject/chess/piece/RookTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/ComputerMoveMaker.java,v
+Working file: ChessProject/chess/player/ComputerMoveMaker.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/ComputerMoveMakerTest.java,v
+Working file: ChessProject/chess/player/ComputerMoveMakerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/HumanMoveMaker.java,v
+Working file: ChessProject/chess/player/HumanMoveMaker.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/HumanPlayer.java,v
+Working file: ChessProject/chess/player/HumanPlayer.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/HumanPlayerTest.java,v
+Working file: ChessProject/chess/player/HumanPlayerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/MoveFinder.java,v
+Working file: ChessProject/chess/player/MoveFinder.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/MoveFinderTest.java,v
+Working file: ChessProject/chess/player/MoveFinderTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/MoveMaker.java,v
+Working file: ChessProject/chess/player/MoveMaker.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:23 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/Player.java,v
+Working file: ChessProject/chess/player/Player.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:24 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:24 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/player/PlayerTest.java,v
+Working file: ChessProject/chess/player/PlayerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:24 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:24 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/ComboScorer.java,v
+Working file: ChessProject/chess/scoring/ComboScorer.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:24 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:24 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/ComboScorerTest.java,v
+Working file: ChessProject/chess/scoring/ComboScorerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/CoverageScorer.java,v
+Working file: ChessProject/chess/scoring/CoverageScorer.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/CoverageScorerTest.java,v
+Working file: ChessProject/chess/scoring/CoverageScorerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/MaterialScorer.java,v
+Working file: ChessProject/chess/scoring/MaterialScorer.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/MaterialScorerTest.java,v
+Working file: ChessProject/chess/scoring/MaterialScorerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:25 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/PawnScorer.java,v
+Working file: ChessProject/chess/scoring/PawnScorer.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/PawnScorerTest.java,v
+Working file: ChessProject/chess/scoring/PawnScorerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/PieceDevelopmentScorer.java,v
+Working file: ChessProject/chess/scoring/PieceDevelopmentScorer.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/PieceDevelopmentScorerTest.java,v
+Working file: ChessProject/chess/scoring/PieceDevelopmentScorerTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/scoring/Scorer.java,v
+Working file: ChessProject/chess/scoring/Scorer.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/simulation/SimulationGame.java,v
+Working file: ChessProject/chess/simulation/SimulationGame.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/simulation/SimulationGameTest.java,v
+Working file: ChessProject/chess/simulation/SimulationGameTest.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/textui/ChessGame.java,v
+Working file: ChessProject/chess/textui/ChessGame.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/chess/util/Props.java,v
+Working file: ChessProject/chess/util/Props.java
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/Thumbs.db,v
+Working file: ChessProject/pieces/Thumbs.db
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/blackBishop.gif,v
+Working file: ChessProject/pieces/blackBishop.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:26 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/blackKing.gif,v
+Working file: ChessProject/pieces/blackKing.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/blackKnight.gif,v
+Working file: ChessProject/pieces/blackKnight.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/blackPawn.gif,v
+Working file: ChessProject/pieces/blackPawn.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/blackQueen.gif,v
+Working file: ChessProject/pieces/blackQueen.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/blackRook.gif,v
+Working file: ChessProject/pieces/blackRook.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:27 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/whiteBishop.gif,v
+Working file: ChessProject/pieces/whiteBishop.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/whiteKing.gif,v
+Working file: ChessProject/pieces/whiteKing.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/whiteKnight.gif,v
+Working file: ChessProject/pieces/whiteKnight.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/whitePawn.gif,v
+Working file: ChessProject/pieces/whitePawn.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/whiteQueen.gif,v
+Working file: ChessProject/pieces/whiteQueen.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
+
+RCS file: /home/cvsroot/ChessProject/pieces/whiteRook.gif,v
+Working file: ChessProject/pieces/whiteRook.gif
+head: 1.1
+branch: 1.1.1
+locks: strict
+access list:
+symbolic names:
+	a_0: 1.1.1.1
+	micah: 1.1.1
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;
+branches:  1.1.1;
+Initial revision
+----------------------------
+revision 1.1.1.1
+date: 2004-02-03 19:57:29 -0600;  author: micah;  state: Exp;  lines: +0 -0;
+micah's chess program
+=============================================================================
